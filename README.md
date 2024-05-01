@@ -15,3 +15,4 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 # Northern Lights Green: ![Header](https://github.com/OasisVee/wallpapers/raw/main/545186.jpg)
 # Windows XP: ![Header](https://github.com/OasisVee/wallpapers/raw/main/67168c4fa7c2fdaa85c7db830fd5daa168c52706.jpg)
 # Planetarium: ![Header](https://github.com/OasisVee/wallpapers/raw/main/IMG_20230715_011416.jpg)
+# Whatscord ![Header](https://github.com/OasisVee/wallpapers/raw/main/LargerWhatscordGreen.gif)
