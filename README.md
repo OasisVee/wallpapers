@@ -5,4 +5,5 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
 ## Table Of Contents
 
-!["Brilliance"](131_Sem_Titulo_20231227171708.png)
+Hs Brilliance ![Header](131_Sem_Titulo_20231227171708.png)
+
