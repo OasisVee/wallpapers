@@ -5,6 +5,6 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
 ## Table Of Contents
 
-Hs Brilliance ![Header](131_Sem_Titulo_20231227171708.png)
-Hs Bravery ![Header](132_Sem_Titulo_20231227173648.png)
-Hs Balance ![Header](134_Sem_Titulo_20231227175514.png)
+Hs Brilliance ![Header](https://github.com/OasisVee/wallpapers/raw/main/131_Sem_Titulo_20231227171708.png)
+Hs Bravery ![Header](https://github.com/OasisVee/wallpapers/raw/main/132_Sem_Titulo_20231227173648.png)
+Hs Balance ![Header](https://github.com/OasisVee/wallpapers/raw/main/134_Sem_Titulo_20231227175514.png)
