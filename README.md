@@ -20,3 +20,4 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 # YABT Mint Chutney: ![Header](https://github.com/OasisVee/wallpapers/raw/main/MintChutney.png)
 # Minecraft: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Screenshot_20210909-210231.png)
 # SuperNova: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Untitled6_20230420011515.png)
+# BlueFruit: ![Header](https://github.com/OasisVee/wallpapers/raw/main/bluefruit.png)
