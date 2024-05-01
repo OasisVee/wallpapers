@@ -24,3 +24,4 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 # Jalurple: ![Header](https://github.com/OasisVee/wallpapers/raw/main/ezgif-4-bb4746dc21.gif)
 # You Trippin': ![Header](https://github.com/OasisVee/wallpapers/raw/main/giphy.gif)
 # Lantern Rite: ![Header](https://github.com/OasisVee/wallpapers/raw/main/shaoying-neo-8.jpg)
+# The Sunset ![Header](https://github.com/OasisVee/wallpapers/raw/main/sunset.png)
