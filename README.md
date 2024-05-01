@@ -25,3 +25,4 @@ hold the image and press "copy link address"
 # You Trippin': ![Header](https://github.com/OasisVee/wallpapers/raw/main/giphy.gif)
 # Lantern Rite: ![Header](https://github.com/OasisVee/wallpapers/raw/main/shaoying-neo-8.jpg)
 # The Sunset ![Header](https://github.com/OasisVee/wallpapers/raw/main/sunset.png)
+# Hello Kitty: ![Header](https://github.com/OasisVee/wallpapers/raw/main/thumb-1920-221937.jpg)
