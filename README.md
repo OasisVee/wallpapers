@@ -13,4 +13,4 @@ Crimson Moon: ![Header](https://github.com/OasisVee/wallpapers/raw/main/16867906
 AnimeVibes: ![Header](https://github.com/OasisVee/wallpapers/raw/main/20211012_170839.gif)
 nightstreet: ![Header](https://github.com/OasisVee/wallpapers/raw/main/4d8d3dc80bace9161a30621ac7b43f87.jpg)
 Northern Lights Green: ![Header](https://github.com/OasisVee/wallpapers/raw/main/545186.jpg)
-WindowsXP ![Header](https://github.com/OasisVee/wallpapers/raw/main/67168c4fa7c2fdaa85c7db830fd5daa168c52706.jpg)
+Windows XP: ![Header](https://github.com/OasisVee/wallpapers/raw/main/67168c4fa7c2fdaa85c7db830fd5daa168c52706.jpg)
