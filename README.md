@@ -21,7 +21,6 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 # Minecraft: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Screenshot_20210909-210231.png)
 # SuperNova: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Untitled6_20230420011515.png)
 # BlueFruit: ![Header](https://github.com/OasisVee/wallpapers/raw/main/bluefruit.png)
-# Jalurple: 
-![Header](https://github.com/OasisVee/wallpapers/raw/main/ezgif-4-bb4746dc21.gif)
+# Jalurple: ![Header](https://github.com/OasisVee/wallpapers/raw/main/ezgif-4-bb4746dc21.gif)
 # You Trippin': ![Header](https://github.com/OasisVee/wallpapers/raw/main/giphy.gif)
 # Lantern Rite: ![Header](https://github.com/OasisVee/wallpapers/raw/main/shaoying-neo-8.jpg)
