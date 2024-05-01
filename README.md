@@ -26,3 +26,4 @@ hold the image and press "copy link address"
 # Lantern Rite: ![Header](https://github.com/OasisVee/wallpapers/raw/main/shaoying-neo-8.jpg)
 # The Sunset ![Header](https://github.com/OasisVee/wallpapers/raw/main/sunset.png)
 # Hello Kitty: ![Header](https://github.com/OasisVee/wallpapers/raw/main/thumb-1920-221937.jpg)
+# Windows 98 Theme: ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693573181232.png)
