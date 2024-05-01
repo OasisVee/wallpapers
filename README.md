@@ -7,4 +7,4 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
 Hs Brilliance ![Header](131_Sem_Titulo_20231227171708.png)
 Hs Bravery ![Header](132_Sem_Titulo_20231227173648.png)
-Hs Balance ![Header](133_Sem_Titulo_20231227173648.png)
+Hs Balance ![Header](134_Sem_Titulo_20231227173648.png)
