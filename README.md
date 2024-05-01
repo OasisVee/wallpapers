@@ -27,4 +27,5 @@ hold the image and press "copy link address"
 # The Sunset ![Header](https://github.com/OasisVee/wallpapers/raw/main/sunset.png)
 # Hello Kitty: ![Header](https://github.com/OasisVee/wallpapers/raw/main/thumb-1920-221937.jpg)
 # Windows 98 Theme: ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693573181232.png)
-# Retro Theme (ゲームウェーブカラー) ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693596321284.jpg)
+# Retro Theme (ゲームウェーブカラー): ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693596321284.jpg)
+# Xiao Simp: ![Header](https://github.com/OasisVee/wallpapers/raw/main/wallpaperflare-cropped_8.jpeg)
