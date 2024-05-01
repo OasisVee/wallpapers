@@ -23,3 +23,4 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 # BlueFruit: ![Header](https://github.com/OasisVee/wallpapers/raw/main/bluefruit.png)
 # Jalurple: 
 ![Header](https://github.com/OasisVee/wallpapers/raw/main/ezgif-4-bb4746dc21.gif)
+# You Trippin': ![Header](https://github.com/OasisVee/wallpapers/raw/main/giphy.gif)
