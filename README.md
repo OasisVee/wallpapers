@@ -32,6 +32,7 @@ to get the link just hold the image and hit "copy link address" then go to theme
 ## Windows 98 Theme: ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693573181232.png)
 ## Retro Theme (ゲームウェーブカラー): ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693596321284.jpg)
 ## Xiao Simp: ![Header](https://github.com/OasisVee/wallpapers/raw/main/wallpaperflare-cropped_8.jpeg)
-## Leo
+## Leo:
 download the theme via this [link](https://github.com/KindaColdNGL/Themes/blob/main/Leo.json)
 ![Header](https://github.com/OasisVee/wallpapers/raw/main/images_69-2.jpeg)
+## Wild Sunrise: ![Header](https://github.com/OasisVee/wallpapers/raw/main/aafb8fe6c8f215adf23e2c3e89847707.jpg)
