@@ -33,5 +33,5 @@ to get the link just hold the image and hit "copy link address" then go to theme
 ## Retro Theme (ゲームウェーブカラー): ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693596321284.jpg)
 ## Xiao Simp: ![Header](https://github.com/OasisVee/wallpapers/raw/main/wallpaperflare-cropped_8.jpeg)
 ## Leo
-download via the theme via this [link](https://github.com/KindaColdNGL/Themes/blob/main/Leo.json)
+download the theme via this [link](https://github.com/KindaColdNGL/Themes/blob/main/Leo.json)
 ![Header](https://github.com/OasisVee/wallpapers/raw/main/images_69-2.jpeg)
