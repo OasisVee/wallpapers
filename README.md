@@ -36,3 +36,6 @@ to get the link just hold the image and hit "copy link address" then go to theme
 download the theme via this [link](https://github.com/KindaColdNGL/Themes/blob/main/Leo.json)
 ![Header](https://github.com/OasisVee/wallpapers/raw/main/images_69-2.jpeg)
 ## Wild Sunrise: ![Header](https://github.com/OasisVee/wallpapers/raw/main/aafb8fe6c8f215adf23e2c3e89847707.jpg)
+## Unsaturated Blue:
+self made since i couldnt get it from the theme
+![Header](https://github.com/OasisVee/wallpapers/raw/main/unsaturated_blue.png)
