@@ -19,6 +19,7 @@ to get the link just hold the image and hit "copy link address" then go to theme
 ## Planetarium: ![Header](https://github.com/OasisVee/wallpapers/raw/main/IMG_20230715_011416.jpg)
 ## Magenta Whatscord: ![Header](https://github.com/OasisVee/wallpapers/raw/main/output-onlinepngtools.jpg)
 ## Whatscord: ![Header](https://github.com/OasisVee/wallpapers/raw/main/LargerWhatscordGreen.gif)
+## Firefly: ![Header](https://github.com/OasisVee/wallpapers/raw/main/797185.png)
 ## Firefly+: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Minimalist-Wallpaper-Background-1-1.jpg)
 ## YABT Mint Chutney: ![Header](https://github.com/OasisVee/wallpapers/raw/main/MintChutney.png)
 ## Minecraft: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Screenshot_20210909-210231.png)
