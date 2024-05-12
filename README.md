@@ -45,3 +45,4 @@ self made since i couldnt get it from the theme
 ## Outer Void: ![Header](https://github.com/OasisVee/wallpapers/raw/main/sketch-1636726878243.png)
 ## SapphireMountains: ![Header](https://github.com/OasisVee/wallpapers/raw/main/mountain-nawpic-5.jpg)
 ## Emptiness: ![Header](https://github.com/OasisVee/wallpapers/raw/main/emptiness.png)
+## The Cosmonaute In The Universe: ![Header](https://github.com/OasisVee/wallpapers/raw/main/New_Project_1_C76C703.png)
