@@ -24,7 +24,7 @@ to get the link just hold the image and hit "copy link address" then go to theme
 ## Firefly+: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Minimalist-Wallpaper-Background-1-1.jpg)
 ## YABT Mint Chutney: ![Header](https://github.com/OasisVee/wallpapers/raw/main/MintChutney.png)
 ## Minecraft: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Screenshot_20210909-210231.png)
-## SuperNova: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Untitled6_20230420011515.png)
+## SuperNova++: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Untitled6_20230420011515.png)
 ## BlueFruit: ![Header](https://github.com/OasisVee/wallpapers/raw/main/bluefruit.png)
 ## Jalurple: ![Header](https://github.com/OasisVee/wallpapers/raw/main/ezgif-4-bb4746dc21.gif)
 ## You Trippin': ![Header](https://github.com/OasisVee/wallpapers/raw/main/giphy.gif)
