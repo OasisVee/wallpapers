@@ -21,7 +21,7 @@ to get the link just hold the image and hit "copy link address" then go to theme
 ## Windows XP: ![Header](https://github.com/OasisVee/wallpapers/raw/main/67168c4fa7c2fdaa85c7db830fd5daa168c52706.jpg)
 ## Planetarium: ![Header](https://github.com/OasisVee/wallpapers/raw/main/IMG_20230715_011416.jpg)
 ## Magenta Whatscord: ![Header](https://github.com/OasisVee/wallpapers/raw/main/output-onlinepngtools.jpg)
-## Whatscord: ![Header](https://i.ibb.co/brD1g6s/IMG-20240303-034739-1200-x-2560-pixel.jpg)
+## Whatscord: image used doesnt work, use this link instead https://i.ibb.co/brD1g6s/IMG-20240303-034739-1200-x-2560-pixel.jpg ![Header](https://github.com/OasisVee/wallpapers/raw/main/LargerWhatscordGreen.gif)
 ## Firefly: ![Header](https://github.com/OasisVee/wallpapers/raw/main/797185.png)
 ## Firefly+: ![Header](https://github.com/OasisVee/wallpapers/raw/main/Minimalist-Wallpaper-Background-1-1.jpg)
 ## YABT Mint Chutney: ![Header](https://github.com/OasisVee/wallpapers/raw/main/MintChutney.png)
