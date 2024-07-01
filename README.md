@@ -4,12 +4,13 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
 
 # Table Of Contents
-## help: ###  Get the Image Link:
+## help: 
+*Get the Image Link:*
 Hold the image you want to use as the background and click “Copy link address.”
-###  Navigate to Themer Settings:
+*Navigate to Themer Settings:*
 Open Aliucord and go to the plugin settings.
 Hit the pencil for the theme that you want to edit
-###  Configure the Background:
+*Configure the Background:*
 In the “background” section replace the existing background URL with the one you copied earlier.
 
 
