@@ -4,7 +4,7 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
 ##
 ### Help: 
-***Get the Image Link:***
+__***Get the Image Link:***__
 
   Tap on this to find the one you want to use instead of having to scroll forever ![Header](https://github.com/OasisVee/wallpapers/assets/131408227/6f7234ee-e1bd-41e8-a9f0-539d196345bf)
 
