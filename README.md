@@ -5,7 +5,13 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
 # Table Of Contents
 ### help: 
-to get the link just hold the image and hit "copy link address" then go to themers settings and find the theme you want to fix the background for and hit the pencil, then go to Background and replace the url with the url you copied here
+###   Get the Image Link:
+    Hold the image you want to use as the background and click “Copy link address.”
+###   Navigate to Themer Settings:
+    Open Aliucord and go to the plugin settings.
+    Hit the pencil for the theme that you want to edit
+###   Configure the Background:
+    In the “background” section replace the existing background URL with the one you copied earlier.
 
 ## Hs Brilliance: ![Header](https://github.com/OasisVee/wallpapers/raw/main/131_Sem_Titulo_20231227171708.png)
 ## Hs Bravery: ![Header](https://github.com/OasisVee/wallpapers/raw/main/132_Sem_Titulo_20231227173648.png)
