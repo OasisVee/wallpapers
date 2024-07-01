@@ -10,7 +10,7 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
   - Hold the image you want to use as the background and click “Copy link address.”
 
-***Navigating to editing the theme:***
+***Navigating to edit the theme:***
 
   - Open Aliucord and go to the plugin settings.
   - Find themer and hit the settings button
