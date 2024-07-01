@@ -3,9 +3,6 @@ self made repo for themes that have not been updated to be rehosted and use disc
 if you want me to host an image, put it into an issue or dm me (`@._.serinova._.`) on discord
 
 
-# Table Of Contents
-
-
 ### help: 
 ***Get the Image Link:***
 Hold the image you want to use as the background and click “Copy link address.”
