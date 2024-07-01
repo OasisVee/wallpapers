@@ -13,7 +13,7 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 ***Navigate to Themer Settings:***
 
   - Open Aliucord and go to the plugin settings.
-
+  - Find themer and hit the settings button
   - Hit the pencil for the theme that you want to edit
 
 ***Configure the Background:***
