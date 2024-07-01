@@ -17,7 +17,7 @@ Hit the pencil for the theme that you want to edit
 ***Configure the Background:***
 In the “background” section replace the existing background URL with the one you copied earlier.
 
-###Direct Links:
+## Direct Links:
 ## Hs Brilliance: ![Header](https://github.com/OasisVee/wallpapers/raw/main/131_Sem_Titulo_20231227171708.png)
 ## Hs Bravery: ![Header](https://github.com/OasisVee/wallpapers/raw/main/132_Sem_Titulo_20231227173648.png)
 ## Hs Balance: ![Header](https://github.com/OasisVee/wallpapers/raw/main/134_Sem_Titulo_20231227175514.png)
