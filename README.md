@@ -8,17 +8,18 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
   - Tap on this to find the one you want to use instead of having to scroll forever ![Header](https://github.com/OasisVee/wallpapers/assets/131408227/6f7234ee-e1bd-41e8-a9f0-539d196345bf)
 
-  - Hold the image you want to use as the background and click “Copy link address.”
+  - Hold the image you want to use as the background and click “Copy link address”
 
 ***Navigating to edit the theme:***
 
-  - Open Aliucord and go to the plugin settings.
+  - Open Aliucord and go to user settings
+  - Scroll to the plugins option and tap it
   - Find themer and hit the settings button
   - Hit the pencil for the theme that you want to edit
 
 ***Changing the Background:***
 
-  - In the “background” section replace the existing background URL with the one you copied earlier.
+  - In the “background” section replace the existing background URL with the one you copied earlier
 
 ## Direct Links:
 ## Hs Brilliance: ![Header](https://github.com/OasisVee/wallpapers/raw/main/131_Sem_Titulo_20231227171708.png)
