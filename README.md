@@ -4,7 +4,7 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
 
 # Table Of Contents
-### help: 
+## help: 
 ###  Get the Image Link:
 Hold the image you want to use as the background and click “Copy link address.”
 ###  Navigate to Themer Settings:
