@@ -65,3 +65,4 @@ self made since i couldnt get it from the theme
 ## The Cosmonaute In The Universe: ![Header](https://github.com/OasisVee/wallpapers/raw/main/New_Project_1_C76C703.png)
 ## Reddish-Tint: ![Header](https://github.com/OasisVee/wallpapers/raw/main/reddish.png)
 ## GreenScape: ![Header](https://github.com/OasisVee/wallpapers/raw/main/20211116_100536.png)
+## Kirby: ![Header](https://github.com/OasisVee/wallpapers/raw/main/29bebe6606b86cdb93a94eea82baef2e.jpg)
