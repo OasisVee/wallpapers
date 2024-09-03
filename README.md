@@ -21,6 +21,10 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 
   - In the “background” section replace the existing background URL with the one you copied earlier
 
+
+# video guide if you prefer (or dont know to read): https://youtu.be/u1cU7xRXMF0
+
+
 ## Direct Links:
 ## Hs Brilliance: ![Header](https://github.com/OasisVee/wallpapers/raw/main/131_Sem_Titulo_20231227171708.png)
 ## Hs Bravery: ![Header](https://github.com/OasisVee/wallpapers/raw/main/132_Sem_Titulo_20231227173648.png)
