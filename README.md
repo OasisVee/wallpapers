@@ -54,6 +54,7 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 ## Windows 98 Theme: ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693573181232.png)
 ## Retro Theme (ゲームウェーブカラー): ![Header](https://github.com/OasisVee/wallpapers/raw/main/vapor1693596321284.jpg)
 ## Xiao Simp: ![Header](https://github.com/OasisVee/wallpapers/raw/main/wallpaperflare-cropped_8.jpeg)
+## Lonely Tree: ![Header](https://github.com/OasisVee/wallpapers/raw/main/wallpaperflare-cropped_2.jpeg)
 ## Leo:
 download the theme via this [link](https://github.com/KindaColdNGL/Themes/blob/main/Leo.json)
 ![Header](https://github.com/OasisVee/wallpapers/raw/main/images_69-2.jpeg)
