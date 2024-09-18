@@ -73,3 +73,4 @@ self made since i couldnt get it from the theme
 ## Kaitekina shian: ![Header](https://github.com/OasisVee/wallpapers/raw/main/image-1.jpeg)
 ## Killer Queen: ![Header](https://github.com/OasisVee/wallpapers/raw/main/jjba.png)
 ## GradientBlue: ![Header](https://github.com/OasisVee/wallpapers/raw/main/GradientBlue.png)
+## ActuallyGradient: ![Header](https://github.com/OasisVee/wallpapers/raw/main/actuallygradient.png
