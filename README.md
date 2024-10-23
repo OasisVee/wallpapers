@@ -2,6 +2,17 @@ self made repo for themes that have not been updated to be rehosted and use disc
 
 if you want me to host an image, put it into an issue or dm me (`@._.serinova._.`) on discord
 
+
+## Alternative repo made by grzesiek11 that has the themes in a fixed state because of them being old (good job man): https://gitlab.com/Grzesiek11/aliucord-theme-mirror/-/tree/master/themes
+
+to install from there:
+1: click the theme you want
+2: press this![Header](https://github.com/user-attachments/assets/796763a1-3a2a-4db0-abcc-8021a617978d)
+3: in your file manager move it to /storage/emulated/0/Aliucord/themes
+4: go into aliucord and it should be there if not hit the load missing themes option
+
+alternatively in [#theme-support](https://discord.com/channels/811255666990907402/875213883776847873) grzesiek11 posted the raw links in there so just long press the message containing the one you want
+
 ##
 ### Help: 
 # video guide if you prefer (or don't know to read): https://youtu.be/u1cU7xRXMF0
