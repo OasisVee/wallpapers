@@ -1,4 +1,4 @@
-## Alternative repo made by grzesiek11 that has the themes in a fixed state because of them being old (good job man): https://gitlab.com/Grzesiek11/aliucord-theme-mirror/-/tree/master/themes
+## Alternative (and better) repo made by grzesiek11 that has the themes in a fixed state because of them being old (good job man): https://gitlab.com/Grzesiek11/aliucord-theme-mirror/-/tree/master/themes
 
 to install from there:
 
