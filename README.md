@@ -10,7 +10,7 @@ to install from there:
 
 4: go into aliucord and it should be there if not hit the load missing themes option
 
-alternatively in [#theme-support](https://discord.com/channels/811255666990907402/875213883776847873) grzesiek11 posted the raw links in there so just long press the message containing the one you want
+alternatively in [#theme-support](https://discord.com/channels/811255666990907402/875213883776847873/1298461548246863912) grzesiek11 posted the raw links in there so just long press the message containing the one you want
 
 ##
 self made repo for themes wallpapers that have not been updated to be rehosted that still use discord links
