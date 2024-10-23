@@ -6,6 +6,7 @@ if you want me to host an image, put it into an issue or dm me (`@._.serinova._.
 ## Alternative repo made by grzesiek11 that has the themes in a fixed state because of them being old (good job man): https://gitlab.com/Grzesiek11/aliucord-theme-mirror/-/tree/master/themes
 
 to install from there:
+
 1: click the theme you want
 
 2: press this![Header](https://github.com/user-attachments/assets/796763a1-3a2a-4db0-abcc-8021a617978d)
