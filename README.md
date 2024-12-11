@@ -12,7 +12,7 @@
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/OasisVee/wallpapers?style=for-the-badge&logo=commitlint&color=82713f&logoColor=D9E0EE&labelColor=302D41">
   </a>
     <a href="https://github.com/OasisVee/wallpapers">
-    <img alt="bundlephobia" src="https://img.shields.io/github/bundlephobia/OasisVee/wallpapers?style=for-the-badge&logo=commitlint&color=82713f&logoColor=D9E0EE&labelColor=302D41">
+    <img alt="bundlephobia" src="https://img.shields.io/github/minzip/OasisVee/wallpapers?style=for-the-badge&logo=commitlint&color=82713f&logoColor=D9E0EE&labelColor=302D41">
   </a>
 </p>
 
