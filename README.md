@@ -5,7 +5,9 @@
   <a href="https://github.com/OasisVee/wallpapers/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/OasisVee/wallpapers?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
   </a>
-
+<a href="https://github.com/OasisVee/wallpapers/forks">
+    <img alt="Issues" src="https://img.shields.io/github/forks/OasisVee/wallpapers?style=for-the-badge&logo=fork&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
+  </a>
 </p>
 
 ## Alternative (and better)
