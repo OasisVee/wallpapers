@@ -12,7 +12,7 @@
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/OasisVee/wallpapers?style=for-the-badge&logo=commitlint&color=82713f&logoColor=D9E0EE&labelColor=302D41">
   </a>
       <a href="https://github.com/OasisVee/wallpapers/commits/main">
-    <img alt="repo size" src="https://img.shields.io/github/repo-size/OasisVee/wallpapers?style=for-the-badge&logo=commitlint&color=82713f&logoColor=D9E0EE&labelColor=302D41">
+    <img alt="repo size" src="https://img.shields.io/github/repo-size/OasisVee/wallpapers?style=for-the-badge&logo=malwarebytes&color=6d99ad&logoColor=D9E0EE&labelColor=302D41">
   </a>
 </p>
 
