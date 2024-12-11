@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/OasisVee/wallpapers/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/OasisVee/wallpapers?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+  <a href="https://github.com/OasisVee/wallpapers/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/OasisVee/wallpapers?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
+  </a>
+
+</p>
 ## Alternative (and better)
 repo made by grzesiek11 that has the themes in a fixed state because of them being old (good job man): https://gitlab.com/Grzesiek11/aliucord-theme-mirror/-/tree/master/themes
 
