@@ -3,10 +3,10 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/OasisVee/wallpapers?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41">
   </a>
   <a href="https://github.com/OasisVee/wallpapers/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/OasisVee/wallpapers?style=for-the-badge&logo=gitbook&color=602b6d&logoColor=D9E0EE&labelColor=302D41">
+    <img alt="Issues" src="https://img.shields.io/github/issues/OasisVee/wallpapers?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
   </a>
 <a href="https://github.com/OasisVee/wallpapers/forks">
-    <img alt="Issues" src="https://img.shields.io/github/forks/OasisVee/wallpapers?style=for-the-badge&logo=trailforks&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41">
+    <img alt="Issues" src="https://img.shields.io/github/forks/OasisVee/wallpapers?style=for-the-badge&logo=trailforks&color=602b6d&logoColor=D9E0EE&labelColor=302D41">
   </a>
 </p>
 
